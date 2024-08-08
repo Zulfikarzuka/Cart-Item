@@ -1,2 +1,2 @@
 # Cart-Item
-Cart Item include image and main pricing, tittle and call to action
+Cart Item include images, main pricing, tittle and call to action
